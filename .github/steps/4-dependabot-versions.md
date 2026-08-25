@@ -6,7 +6,7 @@ _お見事です！_ :partying_face:
 
 > [!NOTE]  
 > Dependabot が提案した pull request が複数あったことに気づきましたか。マージしたのは **axios** 依存関係のものだけですが、他のものは **Pull requests** の一覧から消えています。axios 依存関係のアップグレードによって他の推移的依存関係にも変更が生じ、削除されたり別のバージョンに更新されたりしたためです。dependency graph に変化があるたびに、Dependabot は既存の pull request を自動で見直し、不要になったものを閉じます。まとめて全部マージせず、Dependabot に任せましょう。 
-<img width="955" alt="axios の PR がマージされ、他の 2 件が閉じられたことを示すスクリーンショット" src="../images/axios-pr-merged-others-closed.png" />
+<img width="955" alt="axios の PR がマージされ、他の 2 件が閉じられたことを示すスクリーンショット" src="https://github.com/golondrina1560-tech/skills-secure-repository-supply-chain/blob/main/.github/images/axios-pr-merged-others-closed.png?raw=true" />
 
 
 security updates はアラートの解決を自動化してくれますが、単にバージョンを最新に保ちたい場合はどうでしょうか。Dependabot version updates を使えば、依存関係の新しいバージョンに対する pull request の生成も自動化できます。
